@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hannam;James;;;
+FN:James Hannam
+ORG:Alchemmy Consulting
+ADR;TYPE=WORK:Riverside House
+2A Southwark Bridge Rd
+London
+SE1 9HA
+TITLE:Senior Manager
+TEL;TYPE=CELL:+447784651569
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:james.hannam@alchemmy.com
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=Calendar:https://outlook.office365.com/owa/calendar/JamesHannam@alchemmy.com/bookings/
+URL;TYPE=Twitter:https://twitter.com/iamjameshannam
+URL;TYPE=LinkedIn:https://linkedin.com/iamjameshannam
+URL;TYPE=Tumblr:https://iamjameshannam.tumblr.com/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Consultants who help you deliver real, sustainable and lasting change.
+UID:EnBizCard-100185025
+END:VCARD
