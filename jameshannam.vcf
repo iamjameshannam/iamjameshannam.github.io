@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:Hannam;James;;;
 FN:James Hannam
-ORG:Alchemmy Consulting
+ORG:Alchemmy
 ADR;TYPE=WORK:Riverside House
 2A Southwark Bridge Rd
 London
@@ -16,10 +16,10 @@ EMAIL;TYPE=WORK:james.hannam@alchemmy.com
 URL;TYPE=Digital Business Card:
 URL:
 URL;TYPE=Calendar:https://outlook.office365.com/owa/calendar/JamesHannam@alchemmy.com/bookings/
-URL;TYPE=Twitter:https://twitter.com/iamjameshannam
 URL;TYPE=LinkedIn:https://linkedin.com/iamjameshannam
+URL;TYPE=Twitter:https://twitter.com/iamjameshannam
 URL;TYPE=Tumblr:https://iamjameshannam.tumblr.com/
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:Consultants who help you deliver real, sustainable and lasting change.
-UID:EnBizCard-100185025
+NOTE:We're a consultancy that deliver sustainable change with people at the centre. 
+UID:EnBizCard-100155719
 END:VCARD
